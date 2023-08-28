@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @elifcss
-- 👀 I’m interested in software
+- 👀 I’m interested in <h3 style="color:Tomato;">Software</h3>
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on junior collabs
-- 📫 How to reach me my instagram account: elif.css
+- 📫 Get contact me on Instagram: <p><a href="https://www.instagram.com/elif.css">Click for my IG Account</a></p>
+
 
 <!---
 elifcss/elifcss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
